@@ -23,14 +23,17 @@ Follow these steps to run the project locally:
 
 1. Clone the repository
 
-git clone https://github.com/your-username/OfflineOrderApp.git
+git clone https://github.com/saby87/OnlineOrderApp
 cd OfflineOrderApp
+
 2. Install dependencies
 
 npm install
+
 3. Install iOS pods (for macOS/iOS)
 
 npx pod-install
+
 4. Run the app
 
 npm run android   # For Android
